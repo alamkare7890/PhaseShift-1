@@ -305,7 +305,7 @@ textarea:focus{
 }
 @media only screen and (max-width:380px){
     .content .box{
-        padding: 0 10px
+        padding: 0 10px;
     }
     .navigation ul li{
         padding-right: 10px;
